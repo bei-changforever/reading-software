@@ -1,0 +1,17 @@
+:root {
+    --search-icon-gray: rgb(206,206,206);
+    --home-select-gray: rgb(153,153,153);
+    --sliver-color-gray: rgb(242,242,242);
+    --author-gray: rgb(104,104,104);
+    --mord-gray: #f0f0f0;
+    --more-text: #999;
+    --join-color: rgb(178,178,178);
+    --directory: #EBE8E6;
+    --home-select-border: rgb(206,94,85);
+    --navibarTitlecolor: rgb(230,77,46);
+    --text-black: #333;
+    --text-border: rgb(230,77,46);
+    --free-read: rgb(222, 87, 81);
+    --href-color: #3c98c9;
+    --di-text: #ABA499;
+}
